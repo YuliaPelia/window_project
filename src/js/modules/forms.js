@@ -8,8 +8,8 @@ const forms = (state) => {
     
     const message = {
         loading: 'Загрузка...',
-        success: 'Спасибо! Скоро мы с вами свяжемся',
-        failure: 'Что-то пошло не так...'
+        success: 'Дякую! Скоро ми з вами звяжемося',
+        failure: 'Щось пішло не так...'
     };
 
     const postData = async (url, data) => {
